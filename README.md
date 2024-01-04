@@ -2,7 +2,13 @@
 
 ## Objective
 
-Scrape and aggregate financial news from multiple sources.
+Scrape and aggregate financial news from multiple sources. 
+
+### Note: 
+This scrapper will scrap the following news websites for finance section
+- Times of India
+- livemint
+- CNBC
 
 ## Tasks
 
@@ -13,12 +19,30 @@ Scrape and aggregate financial news from multiple sources.
 
 ## Getting Started
 
-- Python must be installed on machine
-- Install required libraries:
+### Prerequisites
+- Python must be installed on machine version >= 3.8
 
-  ```bash
-  > python -m venv venv
-  > pip install -r requirements.txt
-  > python scraper.py
-    ```
+### Clone the Repository
 
+```
+git clone https://github.com/pratik2050/news-scrapper
+
+cd news-scrapper
+```
+
+### Initialize Virtual Environment
+```bash
+python -m venv venv
+```
+
+For VS Code set the interpreter to the virtual environment ```ctrl + shift + p``` select interpreter. Select one under .venv/
+
+### Install all dependencies
+```
+pip install -r requirements.txt
+```
+
+### Run the scrapper
+```bash
+python main.py
+```

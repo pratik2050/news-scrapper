@@ -26,7 +26,7 @@ def main():
 
     # Analyze sentiment of the headlines
     sentiments = analyze_sentiment(aggregated_news)
-    print("Sentiments:", sentiments)
+    save_to_json(sentiments, "sentiments.json")
 
 
 if __name__ == "__main__":
