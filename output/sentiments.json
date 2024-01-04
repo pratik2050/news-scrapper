@@ -1,0 +1,554 @@
+[
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.753,
+        "pos": 0.247,
+        "compound": 0.3182
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.734,
+        "pos": 0.266,
+        "compound": 0.4404
+    },
+    {
+        "neg": 0.136,
+        "neu": 0.796,
+        "pos": 0.068,
+        "compound": -0.3519
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.776,
+        "pos": 0.224,
+        "compound": 0.3818
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.737,
+        "pos": 0.263,
+        "compound": 0.3612
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    },
+    {
+        "neg": 0.213,
+        "neu": 0.787,
+        "pos": 0.0,
+        "compound": -0.5023
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.826,
+        "pos": 0.174,
+        "compound": 0.2263
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.797,
+        "pos": 0.203,
+        "compound": 0.4215
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    },
+    {
+        "neg": 0.31,
+        "neu": 0.69,
+        "pos": 0.0,
+        "compound": -0.4019
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.815,
+        "pos": 0.185,
+        "compound": 0.1511
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.648,
+        "pos": 0.352,
+        "compound": 0.5859
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.759,
+        "pos": 0.241,
+        "compound": 0.5423
+    },
+    {
+        "neg": 0.169,
+        "neu": 0.726,
+        "pos": 0.105,
+        "compound": -0.2023
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.324,
+        "pos": 0.676,
+        "compound": 0.7458
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    },
+    {
+        "neg": 0.231,
+        "neu": 0.769,
+        "pos": 0.0,
+        "compound": -0.2732
+    },
+    {
+        "neg": 0.287,
+        "neu": 0.713,
+        "pos": 0.0,
+        "compound": -0.5913
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    },
+    {
+        "neg": 0.116,
+        "neu": 0.718,
+        "pos": 0.166,
+        "compound": 0.2263
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    },
+    {
+        "neg": 0.203,
+        "neu": 0.797,
+        "pos": 0.0,
+        "compound": -0.4215
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.753,
+        "pos": 0.247,
+        "compound": 0.5574
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.755,
+        "pos": 0.245,
+        "compound": 0.3818
+    },
+    {
+        "neg": 0.155,
+        "neu": 0.845,
+        "pos": 0.0,
+        "compound": -0.296
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.646,
+        "pos": 0.354,
+        "compound": 0.8519
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.752,
+        "pos": 0.248,
+        "compound": 0.5106
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.714,
+        "pos": 0.286,
+        "compound": 0.4215
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.746,
+        "pos": 0.254,
+        "compound": 0.5267
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.734,
+        "pos": 0.266,
+        "compound": 0.4404
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.68,
+        "pos": 0.32,
+        "compound": 0.5093
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    },
+    {
+        "neg": 0.315,
+        "neu": 0.685,
+        "pos": 0.0,
+        "compound": -0.3182
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    },
+    {
+        "neg": 0.13,
+        "neu": 0.87,
+        "pos": 0.0,
+        "compound": -0.2732
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.601,
+        "pos": 0.399,
+        "compound": 0.743
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    },
+    {
+        "neg": 0.306,
+        "neu": 0.694,
+        "pos": 0.0,
+        "compound": -0.5267
+    },
+    {
+        "neg": 0.097,
+        "neu": 0.903,
+        "pos": 0.0,
+        "compound": -0.1027
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    },
+    {
+        "neg": 0.166,
+        "neu": 0.514,
+        "pos": 0.32,
+        "compound": 0.4019
+    },
+    {
+        "neg": 0.329,
+        "neu": 0.671,
+        "pos": 0.0,
+        "compound": -0.5994
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.804,
+        "pos": 0.196,
+        "compound": 0.296
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.643,
+        "pos": 0.357,
+        "compound": 0.6124
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.833,
+        "pos": 0.167,
+        "compound": 0.2023
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.565,
+        "pos": 0.435,
+        "compound": 0.6597
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.784,
+        "pos": 0.216,
+        "compound": 0.296
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.769,
+        "pos": 0.231,
+        "compound": 0.4588
+    },
+    {
+        "neg": 0.226,
+        "neu": 0.565,
+        "pos": 0.21,
+        "compound": -0.0516
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.698,
+        "pos": 0.302,
+        "compound": 0.3818
+    }
+]

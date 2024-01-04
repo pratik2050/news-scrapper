@@ -1,3 +1,4 @@
+import os
 import requests
 from bs4 import BeautifulSoup
 import json
@@ -69,7 +70,8 @@ def aggregate_news(*news_sources):
 
 
 #storing the headlines in a json
-def save_to_json(news, filename='aggregated_news.json'):
+def save_to_json(news, filename='output/aggregated_news.json'):
+    os.makedirs(os.path.dirname(filename), exist_ok=True)
     with open(filename, 'w') as file:
         json.dump(news, file)
 
